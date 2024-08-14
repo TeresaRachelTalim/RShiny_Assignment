@@ -1,0 +1,12 @@
+name: RShiny_Assignment
+title: RShiny_Assignment
+username: teresaracheltalim
+account: teresaracheltalim
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12445812
+bundleId: 8976840
+url: https://teresaracheltalim.shinyapps.io/RShiny_Assignment/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

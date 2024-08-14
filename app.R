@@ -107,8 +107,8 @@ server <- function(input, output, session) {
   })
   
   output$image_instructions <- renderImage({
-    list(src = "sample_csv.png", 
-         contentType = "image/png", 
+    list(src = "sample_csv.PNG", 
+         contentType = "image/PNG", 
          width = "400px",
          deleteFile = FALSE)}, deleteFile = FALSE
   )
